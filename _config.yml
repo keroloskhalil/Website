@@ -1,5 +1,6 @@
 #baseurl: ""
 #url: ""
+theme: jekyll-theme-Miles-Jekyll
 
 #paginate_path: "/blog/page:num/"
 #paginate: 9
